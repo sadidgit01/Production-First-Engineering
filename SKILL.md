@@ -1,7 +1,7 @@
 ---
 name: production-first-engineering
 version: 1.0.0
-description: Evaluate and build systems against the production bar, not the demo bar: scale, security, SLA reliability, and cost efficiency. Activate whenever the user is designing, building, or reviewing a backend system, API, architecture, or database — especially when using AI tools to accelerate execution. Also activate when the user is preparing to explain, pitch, or document a project (READMEs, portfolio write-ups, interview prep), to push them toward measurable, bottleneck-aware articulation instead of vague claims. Use this alongside secure-build: secure-build enforces the six hard security/reliability rules, while this skill enforces broader engineering judgment — does the system survive real traffic, real attacks, real SLAs, without wasting money — and provides a roadmap for building that judgment as a final-year backend student moving toward system architect.
+description: Evaluate and build systems against the production bar, not the demo bar - scale, security, SLA reliability, cost efficiency. Activate whenever designing, building, or reviewing systems.
 ---
 
 # Production-First Engineering in the AI Era
